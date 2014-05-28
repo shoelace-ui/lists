@@ -1,0 +1,12 @@
+{
+  "name" : "shoelace-ui-lists",
+  "version" : "0.0.1",
+  "description" : "Lists styles and variables",
+  "repository" : "https://github.com/shoelace-ui/lists.git",
+  "keywords" : ["shoelace-ui", "list", "lists", "ul", "ol", "dl"],
+  "dependencies": {
+    "shoelace-ui-line-height": "git+https://github.com/shoelace-ui/line-height.git"
+  },
+  "author" : "Michael Andrew Vanasse <mail@mndvns.com>",
+  "license" : "MIT"
+}
