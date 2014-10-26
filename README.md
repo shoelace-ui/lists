@@ -1,11 +1,11 @@
 # lists
 
-Lists variables.
+Default `ul` and `ol` styles.
 
-## Installation
+## Usage
 
-```sh
-$ npm install shoelace-ui/lists
+```stylus
+@require 'shoelace-ui-lists'
 ```
 
 ## License
